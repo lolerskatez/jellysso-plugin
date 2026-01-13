@@ -8,12 +8,12 @@
     "category": "Authentication",
     "versions": [
       {
-        "version": "1.0.0",
-        "changelog": "Initial release\n- SSO token validation\n- Automatic user creation\n- Session management\n- Admin permission sync\n- Integration with JellySSO companion app",
+        "version": "1.0.1",
+        "changelog": "Initial release\n- SSO token validation\n- Automatic user creation\n- Session management\n- Admin permission sync\n- Integration with JellySSO companion app\n- Fixed compatibility with Jellyfin 10.11.3",
         "targetAbi": "10.11.3.0",
-        "sourceUrl": "https://github.com/lolerskatez/jellysso-plugin/releases/download/v1.0.0/jellyfin-plugin-jellysso_1.0.0.zip",
+        "sourceUrl": "https://github.com/lolerskatez/jellysso-plugin/releases/download/v1.0.1/jellyfin-plugin-jellysso_1.0.1.zip",
         "checksum": "ebbbdfca55ad9d4c59c565c0738088e6254e29cb80516d93e6bfeab3ad2b0773",
-        "timestamp": "2026-01-13T00:00:00Z"
+        "timestamp": "2026-01-13T13:00:00Z"
       }
     ]
   }
